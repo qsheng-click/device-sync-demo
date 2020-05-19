@@ -1,0 +1,88 @@
+[
+  {
+    "userId": "1",
+    "entity": "Schedule",
+    "data": {
+      "events": [
+        {
+          "time": "2020-04-12T02:52:56+0001"
+        },
+        {
+          "time": "2020-05-02T02:52:56+0001"
+        }
+      ]
+    },
+    "version": "2020-05-12T01:52:56+0001"
+  },
+  {
+    "userId": "1",
+    "entity": "Settings",
+    "data": {
+      "perferredName": "Tom Wok",
+      "timeZone": "GMT-4",
+      "os": "ios",
+      "phoneNumber": "206-352-1111",
+      "signUpTime": "2020-02-29",
+      "emailAddress": "unknown@clicktherapeutics.com"
+    },
+    "version": "2020-04-12T02:52:56+0001"
+  },
+  {
+    "userId": "1",
+    "entity": "SessionType",
+    "data": {
+      "sessionType": "EFMT"
+    },
+    "version": "2020-03-12T02:52:56+0001"
+  },
+  {
+    "userId": "1",
+    "entity": "Exercise#c13f284c-9572-11ea-bb37-0242ac130002",
+    "data": {
+      "seqId": 1,
+      "createdAt": "2020-05-10T01:59:56+0000",
+      "stageId": 1,
+      "roundId": 1,
+      "score": 10,
+      "startTime": "2020-05-10T01:59:56+0000",
+      "endTime": "2020-05-10T02:59:56+0000",
+      "n": 2
+    },
+    "version": "2020-05-12T02:52:56+0001"
+  },
+  {
+    "userId": "1",
+    "entity": "Lesson#491e7258-9574-11ea-bb37-0242ac130002",
+    "data": {
+      "seqId": 1,
+      "lastStartTime": "2020-05-10T01:30:56+0000",
+      "lastEndTime": "2020-05-10T01:32:56+0000",
+      "choices": [
+        {
+          "optionIdx": 0
+        },
+        {
+          "optionIdx": 1
+        }
+      ]
+    },
+    "version": "2020-05-12T02:02:56+0001"
+  },
+  {
+    "userId": "1",
+    "entity": "Lesson#88f3b2bc-9574-11ea-bb37-0242ac130002",
+    "data": {
+      "seqId": 2,
+      "lastStartTime": "2020-05-10T02:10:56+0000",
+      "lastEndTime": "2020-05-10T02:42:56+0000",
+			"choices": [{
+				"categoryIdx": 0,
+				"optionIdx": 1
+			}, {
+				"categoryIdx": 1,
+				"optionIdx": 2
+			}]
+    },
+    "version": "2020-05-10T01:02:56+0001"
+  }
+]
